@@ -1,0 +1,22 @@
+{
+    "name": "krybrig/boneng-sample",
+    "description": "Sample usage of boneng framework",
+    "type": "project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "kassle",
+            "email": "kassle@krybrig.org"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/kassle/boneng"
+        }
+    ],
+    "require": {
+        "krybrig/boneng": "master"
+    }
+}
